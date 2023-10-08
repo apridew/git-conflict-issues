@@ -1,4 +1,4 @@
-Test conflict issues
+Test conflict issues 3
 
 A calculator that calculates interest given principal, annual rate of interest and time period in years.
 Input:
